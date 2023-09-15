@@ -1,0 +1,5 @@
+Ime: Tijana
+Prezime: Lazic
+Rezervisano Obicnih karata: 0
+Rezervisano VIP karata: 2
+

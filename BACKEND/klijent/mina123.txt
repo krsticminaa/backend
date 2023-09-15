@@ -1,0 +1,5 @@
+Ime: Mina
+Prezime: Krstic
+Rezervisano Obicnih karata: 1
+Rezervisano VIP karata: 0
+
